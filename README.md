@@ -47,4 +47,6 @@ The purpose of this analysis is to determine if there is any bias toward favorab
 - Percentage of 5-star non-Vine reviews with 20 or more votes and 50% or more helpful votes: **38.70%**
 
 # Summary
-Based on the results of the analysis,
+Based on the results of the analysis for the percentage of 5-star reviews from Vine and non-Vine reviews, there may not be a large positivity bias for reviews in the Vine program. While the percentage of 5-star reviews with 20 or more votes and with 20 or more votes and 50% or more helpful votes is around 15% higher for Vine reviews, the percentage of total 5-star reviews is 20% higher for non-Vine reviews.
+
+To better and further analyze the data, it would be helpful to look at the percentage of each star rating rather than only the 5-star reviews. This would provide us with a distribution graph where, depending on the data, we could see if there is a bias towards a higher star rating for Vine or non-Vine reviews. It would also be helpful to group these percentages by product category, where it could be possible that more popular products have a higher percentage of higher star reviews for Vine or non-Vine reviews.
