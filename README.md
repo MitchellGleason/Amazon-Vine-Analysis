@@ -33,3 +33,18 @@ The purpose of this analysis is to determine if there is any bias toward favorab
 - Total number of 5-star non-Vine reviews with 20 or more votes and 50% or more helpful votes: **15663**
 
 ## What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+![Figure 5](Figures/Fig5.png)
+![Figure 6](Figures/Fig6.png)
+
+- Percentage of 5-star Vine reviews: **37.45%**
+- Percentage of 5-star Vine reviews with 20 or more votes: **46.15%**
+- Percentage of 5-star Vine reviews with 20 or more votes and 50% or more helpful votes: **51.06%**
+
+<br/>
+
+- Percentage of 5-star non-Vine reviews: **57.54%**
+- Percentage of 5-star non-Vine reviews with 20 or more votes: **31.31%**
+- Percentage of 5-star non-Vine reviews with 20 or more votes and 50% or more helpful votes: **38.70%**
+
+# Summary
+Based on the results of the analysis,
